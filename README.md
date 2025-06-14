@@ -23,33 +23,28 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Dealing with Account Lockouts
+- Enabling and Disabling Accounts
+- Observing logs in the Domain Controller
+- Observing logs on the client machine
 
 <h2>Actions and Observations</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+- Dealing with Account Lockouts
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+  ![image](https://github.com/user-attachments/assets/aab8a1d9-f265-4c38-91d2-1e93f4dae1fc)
+  ![image](https://github.com/user-attachments/assets/bbe6f892-b333-46fe-ad88-825dd9ad45ae)
+  ![image](https://github.com/user-attachments/assets/0ded611d-53ee-497c-bdbc-8dddea819f12)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+- Enabling and Disabling Accounts
+![image](https://github.com/user-attachments/assets/fa3871fd-919b-41a6-936f-9f38a54e8ba1)
+![image](https://github.com/user-attachments/assets/c4b0d660-c2f6-42a8-9de9-2c9e36bb0c8d)
+![image](https://github.com/user-attachments/assets/d3a04ce8-1ba0-4659-b131-fc12b645edfa)
+
+- Observing logs in the Domain Controller
+  ![image](https://github.com/user-attachments/assets/f963f7ca-de27-465e-a6a0-f088195cdfcc)
+
+- Observing logs on the client machine
+![image](https://github.com/user-attachments/assets/c26b03ab-f469-4000-aace-32c13838c1ef)
+
